@@ -1,0 +1,22 @@
+{
+    "geode": ">=5.0.0-alpha.1",
+    "gd": {
+        "win": "2.208",
+        "mac": "2.208",
+        "ios": "2.208",
+        "android": "2.208"
+    },
+    "id": "minlol12.framething",
+    "name": "FrameBack",
+    "version": "v1.0.0",
+    "developer": "MinLOL12",
+    "description": "Rewinds your player to the previous update when a fatal collision would occur.",
+    "settings": {
+        "enabled": {
+            "name": "Enable FrameBack",
+            "description": "Restore your player to its last saved frame and prevent fatal collisions.",
+            "type": "bool",
+            "default": true
+        }
+    }
+}
