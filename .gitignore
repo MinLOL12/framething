@@ -1,0 +1,8 @@
+build/
+cmake-build-*/
+*.geode
+*.dll
+*.so
+*.dylib
+*.o
+*.a
